@@ -1,7 +1,7 @@
 # 在末尾添加了一个新的用户数据
 sp:
   user-service:
-    users: "[{\"id\":7, \"username\":\"abc\",\"password\":\"123\"},{\"id\":8, \"username\":\"def\",\"password\":\"456\"},{\"id\":9, \"username\":\"ghi\",\"password\":\"789\"},{\"id\":99, \"username\":\"1312312132132123\",\"password\":\"158\"}]"
+    users: "[{\"id\":7, \"username\":\"abc\",\"password\":\"123\"},{\"id\":8, \"username\":\"zzz\",\"password\":\"123\"},{\"id\":9, \"username\":\"nn999\",\"password\":\"123\"},{\"id\":99, \"username\":\"1312312132132123\",\"password\":\"158\"}]"
 
 spring:
   application:
